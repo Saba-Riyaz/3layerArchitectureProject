@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Assesment\\Campus\\Campus.csproj": {}
+    "D:\\2ndAssesment\\Campus\\Campus.csproj": {}
   },
   "projects": {
-    "D:\\Assesment\\Campus\\Campus.csproj": {
+    "D:\\2ndAssesment\\Campus\\Campus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Assesment\\Campus\\Campus.csproj",
+        "projectUniqueName": "D:\\2ndAssesment\\Campus\\Campus.csproj",
         "projectName": "Campus",
-        "projectPath": "D:\\Assesment\\Campus\\Campus.csproj",
+        "projectPath": "D:\\2ndAssesment\\Campus\\Campus.csproj",
         "packagesPath": "C:\\Users\\sriaz\\.nuget\\packages\\",
-        "outputPath": "D:\\Assesment\\Campus\\obj\\",
+        "outputPath": "D:\\2ndAssesment\\Campus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sriaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
