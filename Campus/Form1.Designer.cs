@@ -51,6 +51,7 @@
             this.btnDepartment.TabIndex = 1;
             this.btnDepartment.Text = "Department";
             this.btnDepartment.UseVisualStyleBackColor = true;
+            this.btnDepartment.Click += new System.EventHandler(this.btnDepartment_Click);
             // 
             // btnStudent
             // 
@@ -60,6 +61,7 @@
             this.btnStudent.TabIndex = 2;
             this.btnStudent.Text = "Student";
             this.btnStudent.UseVisualStyleBackColor = true;
+            this.btnStudent.Click += new System.EventHandler(this.btnStudent_Click);
             // 
             // Form1
             // 

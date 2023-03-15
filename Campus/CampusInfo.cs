@@ -22,9 +22,6 @@ namespace Campus
 
         }
 
-        private void dgvCampus_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
+       
     }
 }
