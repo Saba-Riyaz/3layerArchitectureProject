@@ -146,6 +146,8 @@
             this.dgvCampus.RowTemplate.Height = 25;
             this.dgvCampus.Size = new System.Drawing.Size(670, 250);
             this.dgvCampus.TabIndex = 12;
+            this.dgvCampus.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCampus_CellClick);
+            this.dgvCampus.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCampus_CellClick);
             // 
             // btnRefresh
             // 

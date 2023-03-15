@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Campus
 {
-    public partial class CampusInfo : Form
+    public partial class Department : Form
     {
-        public CampusInfo()
+        public Department()
         {
             InitializeComponent();
-        }
-
-        private void dgvCampus_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void dgvCampus_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
         }
     }
 }
